@@ -6,7 +6,7 @@ On Heroku: https://jpa03-tianboxiong.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-PureDreamerGk
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-PureDreamerGk)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-PureDreamerGk/branch/main/graph/badge.svg)](https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-PureDreamerGk)
 
 
 ## Integrations
